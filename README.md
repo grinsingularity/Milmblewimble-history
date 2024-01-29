@@ -1,1 +1,1 @@
-A short history of Mimblewimble protocol
+### A short history of Mimblewimble protocol
